@@ -1,8 +1,8 @@
-name: ad_hoc_ident_flutter
+name: ad_hoc_ident_util_flutter
 description: "Provides Flutter specific utility functionalities as part of the ad_hoc_ident framework."
 version: 0.0.1-preview-1
-homepage: https://github.com/FabianMoeckel/ad_hoc_ident_flutter
-repository: https://github.com/FabianMoeckel/ad_hoc_ident_flutter
+homepage: https://github.com/FabianMoeckel/ad_hoc_ident_util_flutter
+repository: https://github.com/FabianMoeckel/ad_hoc_ident_util_flutter
 
 environment:
   sdk: '>=3.4.1 <4.0.0'

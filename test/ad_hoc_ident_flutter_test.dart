@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:ad_hoc_ident/ad_hoc_ident.dart';
-import 'package:ad_hoc_ident_flutter/ad_hoc_ident_flutter.dart';
+import 'package:ad_hoc_ident_util_flutter/ad_hoc_ident_util_flutter.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
